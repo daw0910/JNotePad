@@ -11,4 +11,5 @@
         <maven.compiler.target>11</maven.compiler.target>
         <exec.mainClass>Gui.JNotePad</exec.mainClass>
     </properties>
+    <name>LapTrinhGiaoDien</name>
 </project>
